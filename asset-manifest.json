@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/youssef-page1/static/css/main.adc90093.css",
+    "main.js": "/youssef-page1/static/js/main.6b943356.js",
+    "static/js/787.d3428903.chunk.js": "/youssef-page1/static/js/787.d3428903.chunk.js",
+    "static/media/tumblr_plqykcFI6j1xl2veqo1_500.png": "/youssef-page1/static/media/tumblr_plqykcFI6j1xl2veqo1_500.3c7c9cf9b0d04b142f61.png",
+    "static/media/desktop-preview.jpg": "/youssef-page1/static/media/desktop-preview.16eb19a210a6e752c89b.jpg",
+    "static/media/four-cards.jpg": "/youssef-page1/static/media/four-cards.2a7323453ef939798cf3.jpg",
+    "index.html": "/youssef-page1/index.html",
+    "main.adc90093.css.map": "/youssef-page1/static/css/main.adc90093.css.map",
+    "main.6b943356.js.map": "/youssef-page1/static/js/main.6b943356.js.map",
+    "787.d3428903.chunk.js.map": "/youssef-page1/static/js/787.d3428903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc90093.css",
+    "static/js/main.6b943356.js"
+  ]
+}
